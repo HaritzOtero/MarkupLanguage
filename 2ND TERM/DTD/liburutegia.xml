@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE liburuak [
+<!ELEMENT liburuak (liburua)+>
+<!ELEMENT liburua (izenburua,idazlea,editoriala,isbn,orriak)>
+<!ELEMENT izenburua (#PCDATA)>
+<!ELEMENT idazlea (#PCDATA)>
+<!ELEMENT editoriala (#PCDATA)> 
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT orriak (#PCDATA)>
+]>
+<liburuak>
+	<liburua>
+		<izenburua>Las aventuras de Rodri</izenburua>
+		<idazlea>Markel Rodriguez</idazlea>
+		<editoriala>Lagun</editoriala>
+		<isbn>312313</isbn>
+		<orriak>231</orriak>
+	</liburua>
+	
+	<liburua>
+		<izenburua>La caca de Rodri</izenburua>
+		<idazlea>Markel Rodriguez</idazlea>
+		<editoriala>Lagun</editoriala>
+		<isbn>5435345</isbn>
+		<orriak>321</orriak>
+	</liburua>
+	
+	<liburua>
+		<izenburua>El FIFA de Rodri</izenburua>
+		<idazlea>Markel Rodriguez</idazlea>
+		<editoriala>elkar</editoriala>
+		<isbn>432432</isbn>
+		<orriak>123</orriak>
+	</liburua>
+</liburuak>

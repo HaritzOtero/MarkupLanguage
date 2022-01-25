@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<ikasleak>
+	<1>
+		<izena>Mikel</izena>
+		<abizena>Martin</abizena>
+		<telefonoa>123456789</telefonoa>
+		<jaiotze-data>22/01/2019</jaiotze-data>
+	</1>
+		
+	<2>
+		<izena>Raul</izena>
+		<abizena>Parra</abizena>
+		<telefonoa>1234556789</telefonoa>
+		<jaiotze-data>22/01/2019</jaiotze-data>
+	</2>
+		
+	<3>
+		<izena>Markel</izena>
+		<abizena>Gallardo</abizena>
+		<telefonoa>123456789</telefonoa>
+		<jaiotze-data>22/01/2019</jaiotze-data>
+	</3>
+		
+	<4>
+		<izena>Haritz</izena>
+		<abizena>Otero</abizena>
+		<telefonoa>123456789</telefonoa>
+		<jaiotze-data>22/01/2019</jaiotze-data>
+	</4>
+</ikasleak>

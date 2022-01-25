@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE notes [ 
+<!ELEMENT notes (note)+>
+<!ELEMENT note (to,from,heading,body,enviado)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)> 
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT enviado EMPTY>
+]>
+
+<notes>
+	<note>
+		<to>Ruben</to>
+		<from>Haritz</from>
+		<heading>Reminder</heading>
+		<body>Egunon</body>
+		<enviado/>
+	</note> 
+	<note>
+	
+	<to>Fabiola</to>
+		<from>Haritz</from>
+		<heading>Reminder</heading>
+		<body>Boring</body>
+		<enviado/>
+	</note>
+
+</notes>

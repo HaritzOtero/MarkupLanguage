@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="prueba.xsl"?>
+
+<mobilePhones>
+    <mobilePhone marca ="Iphone">
+        <name>IphoneX</name>
+        <screeen>5,8 AMOLED (HDR)</screeen>
+        <cpu>Apple A11 6 core</cpu>
+        <RAM>3 GB</RAM>
+        <InternalMemory>64 and 256 GB</InternalMemory>
+        <batteryInfo>Fast and wireless charge</batteryInfo>
+        <dimensions>143,6x70,9x7,7 mm // 174 gr</dimensions>
+        <mainCam>12 MP (f1.8) + 12 MP (f2.4) with OIS</mainCam>
+        <frontCam>7 MP (f2.2)</frontCam>
+        <others>Water resistance / Face ID</others>
+        <price>1329 €</price>
+
+    </mobilePhone>
+
+    <mobilePhone marca ="Iphone">
+        <name>IphoneXR</name>
+        <screeen>LCD IPS 6,1 inches with True Tone resolution of 1.792x828px</screeen>
+        <cpu>A12 Bionic</cpu>
+        <RAM>3 GB</RAM>
+        <InternalMemory>64/128/256 GB </InternalMemory>
+        <batteryInfo>2.942 mAh</batteryInfo>
+        <dimensions>150,0 x 75,7 x 8,3 mm, 194 gr</dimensions>
+        <mainCam>12mp f/1.8 </mainCam>
+        <frontCam>7 mp, f/2.2</frontCam>
+        <others>FaceID, water resistance IP67</others>
+        <price>859€</price>
+
+    </mobilePhone>
+
+    <mobilePhone marca ="Iphone">
+        <name>Iphone 13</name>
+        <screeen>Super Retina XDR OLED de 6,1 inches FullHD resolution (2.532 x 1.170 px)</screeen>
+        <cpu>Apple A15 Bionic</cpu>
+        <RAM>4 GB</RAM>
+        <InternalMemory>128/256/512 GB</InternalMemory>
+        <batteryInfo>3.227 mAh</batteryInfo>
+        <dimensions>146,7 x 71,5 x 7,6 mm 173 gr</dimensions>
+        <mainCam>12 MP f/1.6, OIS</mainCam>
+        <frontCam>12 MP f/2.2</frontCam>
+        <others>FaceID, Resistance IP68 </others>
+        <price>1.259€</price>
+
+    </mobilePhone>
+
+    <mobilePhone marca ="Samsung">
+        <name>Samsung Galaxy S20 Ultra</name>
+        <screeen>Dynamic AMOLED 6,9" </screeen>
+        <cpu>Exynos 990 </cpu>
+        <RAM>12 / 16 GB LPDDR5</RAM>
+        <InternalMemory>128 / 512 GB + MicroSD 1 TB</InternalMemory>
+        <batteryInfo>5.000 mAh</batteryInfo>
+        <dimensions>166,9 x 76 x 8,8 mm 220 g</dimensions>
+        <mainCam>108 MP, 0,8µm (12 MP, 2,4µm), f/1.8, OIS</mainCam>
+        <frontCam>40 MP, 0,7µm (10 MP, 1,4µm), f/2.2</frontCam>
+        <others>FaceID, Resistance IP68 </others>
+        <price>1.259€</price>
+
+    </mobilePhone>
+
+    <mobilePhone marca ="Samsung">
+        <name>Samsung Galaxy Young</name>
+        <screeen>3.27 inches screeen</screeen>
+        <cpu>Qualcomm MSM7227A de un núcleo a 1.0 GHz. </cpu>
+        <RAM> 768 MB</RAM>
+        <InternalMemory>4 GB</InternalMemory>
+        <batteryInfo>Ion-Litio (1300 mAh)</batteryInfo>
+        <dimensions>109.4 x 58.6 x 12.5 mm, 112g</dimensions>
+        <mainCam> 3 Mpx</mainCam>
+        <frontCam>N/A</frontCam>
+        <others>Android 4.1 Jelly Bean software</others>
+        <price>70€</price>
+
+    </mobilePhone>
+
+    <mobilePhone marca ="Xiaomi">
+        <name>Xiaomi MI 11 i</name>
+        <screeen>6,81” AMOLED</screeen>
+        <cpu>Qualcomm Snapdragon 888</cpu>
+        <RAM>8 GB</RAM>
+        <InternalMemory>128 / 256 GB</InternalMemory>
+        <batteryInfo>4.600 mAh</batteryInfo>
+        <dimensions>164,3 x 74,6 x 8,06 mm 196 gr</dimensions>
+        <mainCam>108 MP f/1.85, 7P, OIS</mainCam>
+        <frontCam>20 MP f/2.2</frontCam>
+        <others>Stereo sound</others>
+        <price>749€</price>
+
+    </mobilePhone>
+
+    
+    
+
+</mobilePhones>

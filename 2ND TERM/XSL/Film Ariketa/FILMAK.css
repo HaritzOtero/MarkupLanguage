@@ -1,0 +1,25 @@
+#erdian{
+		margin:auto;
+		width:900px;
+		}
+
+table{
+	float:left;
+	height: 300px;
+	
+	border-collapse: collapse;
+	
+	}
+
+img{
+	width: 150px;
+	height: 240px;
+}
+
+td, th{
+	border-bottom: 1px solid #DDD;
+	text-align: left;
+	padding: 8px;
+}
+
+tr:hover {background-color: #D6EEEE;}

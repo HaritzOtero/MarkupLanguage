@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Shippori+Antique+B1&display=swap" rel="stylesheet"> 
+ <HTML>
+    <head>
+     <title>SPORTSWEAR</title>
+        
+        <style>
+          * {
+           box-sizing: border-box;
+         }
+         body{
+				background-image: url("fem.jpg");
+				background-size: cover;
+			}
+         h1{
+             text-align: center;
+            color: rgb(255, 255, 255);
+             font-size: 60px;
+             font-family: 'Abril Fatface'    
+            
+            }
+            h2{
+            text-align: center;
+            color: black;
+            font-family: 'Shippori Antique B1', sans-serif;
+            }
+            .nagusia{
+				
+				margin: auto;
+				width: 1300px;
+               
+            }
+            #titulo {
+				float: center;
+				text-align: center;
+				background-color: black;
+			}
+            .main {
+				background-color: blanchedalmond;
+				float: center;
+			}
+            .pushable {
+				background: rgb(213, 216, 17);
+				border-radius: 12px;
+				border: none;
+				padding: 0;
+				cursor: pointer;
+				outline-offset: 4px;
+				width:300px;
+			}
+            .front {
+				display: block;
+				padding: 12px 42px;
+				border-radius: 12px;
+				font-size: 1.25rem;
+				background: rgb(56,175,255);
+				color: black;
+				transform: translateY(-6px);
+				width:300px;
+			}
+
+            .pushable:active .front {
+			transform: translateY(-2px);
+			}
+            section::after {
+				content: "";
+				display: table;
+                padding-left: 10ch;
+				
+			}
+            nav {
+			  float: left;
+			  width: 30%;
+			  height: 550px; 
+			  background-color: rgb(5, 253, 241);
+			  padding: 20px;
+			  overflow: scroll;
+			  border: 5px outset rgb(0, 0, 0);
+			}	
+            nav ul {
+			  list-style-type: none;
+			  padding: 0;
+			}	   
+        </style>
+    </head>
+    <body>
+        <div class="nagusia"> 
+            <div id="titulo">
+				<h1><b>THE SPORTSWEAR AND MATERIAL</b></h1>	
+			</div>
+            <div class="main">
+                <h2>This is all the wearing that players use in waterpolo, also some material used in games.</h2>
+            </div> 
+            <section>
+				<nav>
+					<ul>	
+						<li>
+							<button class="pushable" onclick="iframe_a.location.href='thehat.html';" target="iframe_a">
+								<span class="front">
+									<b>THE HAT</b>
+								</span>
+							</button>
+						</li>
+						<p></p>
+						<li>
+							<button class="pushable" onclick="iframe_a.location.href='goal.html';"target="iframe_a">
+								<span class="front">
+									<b>GOALS</b>
+								</span>
+							</button>
+						</li>
+						<p></p>
+						<li>
+							<button class="pushable" onclick="iframe_a.location.href='swimsuit.html';"target="iframe_a">
+								<span class="front">
+									<b>SWIMSUIT</b>
+								</span>
+							</button>
+						</li>
+						<p></p>
+						<li>
+							<button class="pushable" onclick="iframe_a.location.href='theball.html';"target="iframe_a">
+								<span class="front">
+									<b>BALLS</b>
+								</span>
+							</button>
+						</li>
+                    </ul>
+                </nav>
+            </section>    
+            <article>
+                <iframe src="thehat.html" name="iframe_a" height="550px" width="60%" ></iframe>
+            </article>    
+    </body>
+
+</HTML>   

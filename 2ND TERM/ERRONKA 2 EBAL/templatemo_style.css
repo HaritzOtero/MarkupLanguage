@@ -370,3 +370,5 @@ span.detail {
 
 }
 
+a:visited {color: white; }
+a:hover {color: black}

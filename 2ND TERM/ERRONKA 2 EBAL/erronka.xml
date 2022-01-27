@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<?xml-stylesheet type="text/xsl" href="prueba.xsl"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
 
 <mobilePhones>
     <mobilePhone marca ="Iphone">
-        <name>IphoneX</name>
+        <name>Iphone X</name>
         <screeen>5,8 AMOLED (HDR)</screeen>
         <cpu>Apple A11 6 core</cpu>
         <RAM>3 GB</RAM>
@@ -19,7 +18,7 @@
     </mobilePhone>
 
     <mobilePhone marca ="Iphone">
-        <name>IphoneXR</name>
+        <name>Iphone XR</name>
         <screeen>LCD IPS 6,1 inches with True Tone resolution of 1.792x828px</screeen>
         <cpu>A12 Bionic</cpu>
         <RAM>3 GB</RAM>
